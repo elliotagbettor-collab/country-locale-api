@@ -1,4 +1,6 @@
-export const countries = [
+import type { Country } from "../types/country.js";
+
+export const countries: Country[] = [
   {
     code: "GH",
     flag: "🇬🇭",
