@@ -2,7 +2,14 @@
   "name": "@amali-tech/country-locale-api",
   "version": "0.0.0",
   "description": "Library of countries with locale and currency information",
-  "keywords": ["country", "locale", "currency", "language", "timezone", "phone-code"],
+  "keywords": [
+    "country",
+    "locale",
+    "currency",
+    "language",
+    "timezone",
+    "phone-code"
+  ],
   "license": "Apache-2.0",
   "author": "AmaliTech",
   "homepage": "https://github.com/amalitech-packages/country-locale-api#readme",

@@ -15,6 +15,7 @@ export interface Country {
   flag: string;
   phoneCode: string;
   name: string;
+  aliases?: readonly string[];
   locale: string;
   timezone?: string;
   timezones?: string[];
