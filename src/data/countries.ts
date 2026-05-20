@@ -1,5 +1,7 @@
 import type { Country } from '../types/country.js';
 
+// Sample data for 15 countries. In a real implementation, this would be more comprehensive and likely sourced from an external dataset or API.
+
 export const countries: Country[] = [
   {
     code: 'GH',
